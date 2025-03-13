@@ -6,14 +6,14 @@
 ## Основные функции
 
 ### Авторизация
-<img src="https://raw.githubusercontent.com/username/repository-name/main/images/login_screen.jpg" width="300" alt="Экран авторизации">
+<img src="https://github.com/runwithfun/introducing/blob/main/images/login_screen.jpg" width="300" alt="Экран авторизации">
 
 - Простая и удобная система входа в приложение
 - Возможность создания нового аккаунта
 - Безопасное хранение данных пользователя
 
 ### Отслеживание тренировок
-<img src="https://raw.githubusercontent.com/username/repository-name/main/images/workout_details.jpg" width="300" alt="Детали тренировки">
+<img src="https://github.com/runwithfun/introducing/blob/main/images/workout_details.jpg" width="300" alt="Детали тренировки">
 
 Приложение поддерживает различные виды активности:
 - Бег
@@ -30,7 +30,7 @@
 - Дата и время
 
 ### Детальный анализ сердечного ритма
-<img src="https://raw.githubusercontent.com/username/repository-name/main/images/heart_rate.jpg" width="300" alt="Анализ сердечного ритма">
+<img src="https://github.com/runwithfun/introducing/blob/main/images/heart_rate.jpg" width="300" alt="Анализ сердечного ритма">
 
 - Графики изменения пульса во время тренировки
 - Анализ по зонам сердечного ритма:
@@ -42,14 +42,14 @@
 - Процентное соотношение времени в каждой зоне
 
 ### Визуализация маршрутов
-<img src="https://raw.githubusercontent.com/username/repository-name/main/images/route_map.jpg" width="300" alt="Маршрут тренировки">
+<img src="https://github.com/runwithfun/introducing/blob/main/images/route_map.jpg" width="300" alt="Маршрут тренировки">
 
 - Отображение пройденного маршрута на карте
 - Возможность просмотра маршрута в различных режимах
 - Сохранение истории маршрутов
 
 ### Начало новой тренировки
-<img src="https://raw.githubusercontent.com/username/repository-name/main/images/start_workout.jpg" width="300" alt="Начало тренировки">
+<img src="https://github.com/runwithfun/introducing/blob/main/images/start_workout.jpg" width="300" alt="Начало тренировки">
 
 - Выбор типа активности
 - Определение местоположения
@@ -57,7 +57,7 @@
 - Удобная кнопка для начала отслеживания
 
 ### История тренировок
-<img src="https://raw.githubusercontent.com/username/repository-name/main/images/workout_history.jpg" width="300" alt="История тренировок">
+<img src="https://github.com/runwithfun/introducing/blob/main/images/workout_history.jpg" width="300" alt="История тренировок">
 
 - Полный список всех тренировок
 - Сортировка по типу активности
@@ -65,7 +65,7 @@
 - Отображение основных параметров (время, дистанция)
 
 ### Ежедневная статистика
-<img src="https://raw.githubusercontent.com/username/repository-name/main/images/daily_stats.jpg" width="300" alt="Ежедневная статистика">
+<img src="https://github.com/runwithfun/introducing/blob/main/images/daily_stats.jpg" width="300" alt="Ежедневная статистика">
 
 - Количество шагов за день
 - Активная энергия
@@ -74,7 +74,7 @@
 - Еженедельная статистика шагов с графиком
 
 ### Годовая статистика
-<img src="https://raw.githubusercontent.com/username/repository-name/main/images/yearly_stats.jpg" width="300" alt="Годовая статистика">
+<img src="https://github.com/runwithfun/introducing/blob/main/images/yearly_stats.jpg" width="300" alt="Годовая статистика">
 
 - Графики активности по месяцам
 - Общая дистанция по типам активности:
