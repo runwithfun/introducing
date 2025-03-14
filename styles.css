@@ -211,3 +211,33 @@ footer {
         font-size: 1.2rem;
     }
 }
+
+/* Стили для секции с вызовами и решениями */
+.challenge-item {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+.challenge-item h3 {
+    color: #e74c3c;
+    margin-bottom: 15px;
+}
+
+.challenge-description {
+    margin-bottom: 20px;
+}
+
+.solution {
+    background-color: #f8f9fa;
+    border-left: 4px solid #4e54c8;
+    padding: 15px 20px;
+    border-radius: 0 5px 5px 0;
+}
+
+.solution h4 {
+    color: #4e54c8;
+    margin-bottom: 10px;
+}
